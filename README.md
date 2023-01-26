@@ -6,3 +6,5 @@ https://xmind.works/share/YbknC25V
 
 
 #### The mind map notes generally help me to learn faster. They only contain contents that I consider I will forget or need to learn in the future. I write them based on my understanding and the organizational method is only for my personal use, so it may be hard for others to understand.
+
+![xmind photo.png]https://github.com/Moonleaves/swift-learning-mind-map-notes/blob/a822eb91a067b2d3316835d25bb2abaf0439b9a8/xmind%20photo.png
